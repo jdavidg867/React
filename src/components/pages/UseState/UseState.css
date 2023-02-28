@@ -1,0 +1,22 @@
+.counter{
+    margin: auto;
+    margin-top: 60px;
+    background-color: rgb(131, 184, 158);
+    width: 350px;
+    height: 350px;
+    border-radius: 5px;
+    font-size: 50px;
+  } 
+   
+   
+  .counter button{
+   display: block;
+   margin: auto;
+   padding: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   width: 100px;
+   font-size: 30px;
+   cursor: pointer;
+   border-radius: 5px;
+  }
